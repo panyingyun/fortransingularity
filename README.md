@@ -1,7 +1,7 @@
 # fortran singularity示例 
 
 ### 打包
-sudo singularity build sumq_v0.1.sif sumq.def
+sudo singularity build fadd_v1.0.sif fadd.def
 
 ### 运行
 
