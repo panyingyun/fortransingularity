@@ -1,6 +1,6 @@
 # fadd.def
 BootStrap: docker
-From: ubuntu:22.04
+From: dtcae.yuansuan.cn/ubuntu/ubuntu:22.04
 
 %labels
     Author  yskj
