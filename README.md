@@ -1,10 +1,11 @@
-# fortran singularity示例 
+## sum 
 
-### 打包
-sudo singularity build fadd_v1.0.sif fadd.def
+- 演示如何打包fortran singularity容器
 
-### 运行
+## sumtofile
 
-(1) singularity run fadd_v1.0.sif 2 3
+- 演示如何打包fortran singularity容器
+- 演示如何从CSV文件读取数据，如何写入CSV文件
+- 演示多应用入口，即同一个容器中打包多个应用
 
-(2) singularity run fadd_v1.0.sif 9 11
+	
